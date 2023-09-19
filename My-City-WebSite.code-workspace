@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "My-City-WebSite",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../site/img"
+		}
+	],
+	"settings": {}
+}
